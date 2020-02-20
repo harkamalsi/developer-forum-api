@@ -13,7 +13,10 @@ This will be a prototype for a developer forum web application with the main pur
 * Can start new conversations, answer to them, rate them somehow (give a like or star rating)
 * Can connect to their github profiles 
 * Can search for conversations with search parameters such as:
-* Title, category, programming language and other relevant parameters
+  * Title
+  * Category
+  * Programming language
+  * Other relevant parameters
 * Can save a conversation 
 * Can access saved conversations from “my-page”  
 * Can see other users’ profiles 
