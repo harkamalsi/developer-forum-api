@@ -2,7 +2,7 @@
 This is the backend repository for the developer forum project.
 
 ## Project description
-This will be a prototype for a developer forum web application with the main purpose being learning React with TypeScript, Spring Boot, Firebase, Jenkins and Heroku. This forum will let developers start, reply to, rate and save conversations about different topics. Guest users will have the possibility to search and read conversations but users must be signed in to start, rate and reply to conversations. Guest users will also be able to see limited profile details of registered users. In order to see full details, one must be logged in. Users will also be able to connect to their github profiles. 
+This will be a prototype for a developer forum web application with the main purpose being learning React with TypeScript, Spring Boot, MongoDB, Jenkins and Heroku. This forum will let developers start, reply to, rate and save conversations about different topics. Guest users will have the possibility to search and read conversations but users must be signed in to start, rate and reply to conversations. Guest users will also be able to see limited profile details of registered users. In order to see full details, one must be logged in. Users will also be able to connect to their github profiles. 
 
 ## Stakeholders
 * Users 
